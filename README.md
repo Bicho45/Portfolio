@@ -2,7 +2,7 @@
 
 http://mohammadbachir2001.eb2a.com
 
-![G1](https://user-images.githubusercontent.com/80117331/201523576-d9288b35-5865-4650-a4fe-5c3d9004ab5c.PNG)
+![G1](https://user-images.githubusercontent.com/80117331/201605904-81468895-dbdb-4263-8330-dd798ce9d32f.PNG)
 
 ![G2](https://user-images.githubusercontent.com/80117331/201523592-860ef8b2-4d23-4a29-860c-a50fc9f8f082.PNG)
 
