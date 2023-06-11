@@ -1,13 +1,8 @@
 # Portfolio
 
 http://mohammadbachir2001.eb2a.com
-
-![G1](https://user-images.githubusercontent.com/80117331/201605904-81468895-dbdb-4263-8330-dd798ce9d32f.PNG)
-
-![G2](https://user-images.githubusercontent.com/80117331/201523592-860ef8b2-4d23-4a29-860c-a50fc9f8f082.PNG)
-
-![G3](https://user-images.githubusercontent.com/80117331/201523595-469d1e7e-0145-48e0-bbf3-a21168aaba73.PNG)
-
-![G4](https://user-images.githubusercontent.com/80117331/201523604-4b917a73-a2aa-480f-85f7-6764c66c0879.PNG)
-
-![G5](https://user-images.githubusercontent.com/80117331/201523613-8cfac03e-5550-4d42-b20e-1ecf3e502bfb.PNG)
+![G3](https://github.com/Bicho45/Portfolio/assets/80117331/b1b1d60a-c886-438f-8490-9d9d0d4e1d0b)
+![G4](https://github.com/Bicho45/Portfolio/assets/80117331/246741dc-1bfb-47c3-a186-0a631815595e)
+![G5](https://github.com/Bicho45/Portfolio/assets/80117331/cb98baf4-f8e3-4510-b1e7-5297339d07b2)
+![G1](https://github.com/Bicho45/Portfolio/assets/80117331/46feab8e-6581-4d93-80b5-cf9f443b1bdf)
+![G2](https://github.com/Bicho45/Portfolio/assets/80117331/56ad92ad-4088-4cd2-9bb3-3733ba2531cb)
